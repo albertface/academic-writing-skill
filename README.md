@@ -1,1 +1,3 @@
 # academic-writing-skill
+
+Academic Polishing is a Codex skill for refining academic documents such as research papers, theses, abstracts, literature reviews, reports, grant statements, and manuscript sections. It supports grammar correction, scholarly style improvement, sentence-level polishing, paragraph coherence, thesis and topic sentence strengthening, argument flow revision, paraphrase and summary refinement, citation-aware editing, and academic integrity checks. Its goal is to help produce clear, precise, coherent, and reviewer-ready academic prose while preserving the author's original meaning, evidence, citations, terminology, and appropriate claim strength.
