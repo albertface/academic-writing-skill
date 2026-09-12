@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Polishing"
+  short_description: "Polish academic prose and paper structure"
+  default_prompt: "Use $academic-polishing to polish this academic manuscript for clarity, coherence, and formal scholarly style."
